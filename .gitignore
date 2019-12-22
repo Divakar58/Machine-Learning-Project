@@ -1,0 +1,6 @@
+*.zip
+*.pptx
+*.vscode
+*.ipynb_checkpoints
+*.git
+/co2_prediction
