@@ -5,3 +5,5 @@
 *.git
 /co2_prediction
 *.csv
+*.docx
+*.doc
